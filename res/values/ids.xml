@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="aboutScrollView" type="id"/>
+    <color name="Red">#FF4444</color>
+    <item type="id" name="pbApp">false</item>
+    <item type="id" name="znxt">false</item>
+    <item type="id" name="txtVersion">false</item>
+    <item type="id" name="divider">false</item>
+    <item type="id" name="txtznxt">false</item>
+    <item type="id" name="txtznxt1">false</item>
+    <item type="id" name="txtXDA">false</item>
+    <item type="id" name="txtChange">false</item>
+    <item type="id" name="txtLike">false</item>
+    <item type="id" name="txtznxt2">false</item>
+     <item type="id" name="credits_button_bar">false</item>
+    <item type="id" name="credits_button">false</item>
+    <item type="id" name="creditsScrollView">false</item>
+    <item type="id" name="txtcredits">false</item>
+    <item type="id" name="txtcredits1">false</item>
+    <item type="id" name="txtcredits2">false</item>
+    <item type="id" name="txtcredits3">false</item>
+    <item type="id" name="txtcredits4">false</item>
+    <item type="id" name="txtcredits5">false</item>
+    <item type="id" name="txtdafuq">false</item>
+    <item type="id" name="dafuq_button_bar">false</item>
+    <item type="id" name="dafuq_button">false</item>
+    <item type="id" name="action_settings">false</item>
+    
+</resources>

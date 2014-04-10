@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Znxt™</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_section1">About</string>
+    <string name="title_section2">Kosong</string>
+    <string name="title_section3">Changelog</string>
+    <string name="text_1">Changelog Znxt</string>
+    <string name="text_2">Znxt v 7.0</string>
+    <string name="text_3">-</string>
+    <string name="znxt_banner">Znxt™ Banner</string>
+    <string name="znxt_version">Version</string>
+    <string name="change_title">Blog Znxt™</string>
+    <string name="znxt_change"><u>Blog Znxt™</u></string>
+    <string name="znxt_summary">Znxt™  one of the best ROM for Xperia Tipo and Miro ,Now Its available for Xperia M ,Thanks for installing,  We hope you like our work.. Some of the features may have some bugs but as per your suggestions we will try our best to make it the most stable custom ROM, reply our thread over xda-developer there we are willing to help you!  or visit our official site for getting better support to stay in touch with finger tips! .</string>
+    <string name="znxt_summary_1">For more info visit official thread at XDA.</string>
+    <string name="znxt_donate">Donate</string>
+    <string name="credits_summary">Credits For Who Contributed This ROM-</string>
+    <string name="credits_1">Thanks To Allah For Making This Posible.</string>
+    <string name="credits_2">1. Znxt Team-</string>
+    <string name="credits_3">3. Doomlord (For Providing Z2 System Dump)</string>
+    <string name="credits_4">4. Serajr.</string>
+    <string name="credits_5">And All developer from XDA and Indonesia.</string>
+    <string name="cc_dafuq">BEST REGARD Zoldyck.</string>
+    <string name="msg_1">Dafuq</string>
+    <string name="thanks">Frogy Furnetal</string>
+    <string name="thanks2">ColiTeam</string>
+    <string name="thanks3">Ryo Hanzo</string>
+    <string name="thanks4">Ariz Tianto Returns</string>
+    <string name="thanks5">Drooney /Matt Khojim </string>
+    <string name="thanks6">Znxt Team</string>
+    <string name="thanks7">2.Christop /Engga Wahono</string>
+    <string name="etc">6.Etc</string>
+    <string name="thanks8">5.Noel Macwan</string>
+    <string name="thanks9">Satrio Dwi Prabowo</string>
+    
+     </resources>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent" android:background="#FF4444"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ScrollView android:id="@id/creditsScrollView" android:layout_width="fill_parent" android:layout_height="fill_parent" android:layout_marginBottom="50.0dip">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TextView android:textSize="15.0sp" android:textStyle="bold" android:layout_gravity="center" android:id="@id/txtcredits" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:text="@string/credits_summary" />
+
+            <TextView
+                android:id="@id/txtcredits1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:layout_marginTop="20.0dip"
+                android:text="@string/credits_2"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@id/txtcredits2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:layout_marginTop="20.0dip"
+                android:text="@string/thanks7"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@id/txtcredits3"
+                android:layout_width="186dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:layout_marginTop="20.0dip"
+                android:text="@string/credits_3"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@id/txtcredits4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:layout_marginTop="20.0dip"
+                android:text="@string/credits_4" 
+                android:textStyle="bold"/>
+            
+            <TextView
+                android:id="@id/txtcredits4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:layout_marginTop="20.0dip"
+                android:text="@string/thanks8" 
+                android:textStyle="bold"/>
+            
+               <TextView
+                android:id="@id/txtcredits4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20.0dip"
+                android:layout_marginRight="20.0dip"
+                android:layout_marginTop="20.0dip"
+                android:text="@string/etc" 
+                android:textStyle="bold"/>
+            
+            <TextView android:textSize="15.0sp" android:textStyle="bold" android:layout_gravity="center" android:id="@id/txtcredits" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:text="Special Thanks To " />
+            <TextView android:layout_gravity="center" android:id="@id/txtcredits1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:text="@string/credits_1" android:textStyle="bold" />
+            <TextView android:layout_gravity="center" android:id="@id/txtcredits1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:text="@string/thanks6" android:textStyle="bold" />
+            <TextView android:layout_gravity="center" android:id="@id/txtcredits1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:text="@string/thanks2" android:textStyle="bold" />
+            <TextView android:layout_gravity="center" android:id="@id/txtcredits1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:text="@string/thanks" android:textStyle="bold" />
+            <TextView android:layout_gravity="center" android:id="@id/txtcredits1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:text="@string/thanks3" android:textStyle="bold" />
+            <TextView android:layout_gravity="center" android:id="@id/txtcredits1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:text="@string/thanks4" android:textStyle="bold" />
+            <TextView android:layout_gravity="center" android:id="@id/txtcredits1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:text="@string/thanks6" android:textStyle="bold" />
+            <TextView android:layout_gravity="center" android:id="@id/txtcredits1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:text="@string/thanks5" android:textStyle="bold" />
+            <TextView android:layout_gravity="center" android:id="@id/txtcredits1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:text="@string/thanks9" android:textStyle="bold" />
+            
+
+            <TextView android:layout_gravity="center" android:id="@id/txtcredits5" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:text="@string/credits_5" android:textStyle="bold" />
+            <View android:id="@id/divider" android:background="@drawable/divider_horizontal_dark_opaque" android:layout_width="fill_parent" android:layout_height="4.0dip" android:layout_marginLeft="14.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="14.0dip" />
+            <TextView android:textSize="15.0sp" android:textStyle="bold" android:layout_gravity="center" android:id="@id/txtdafuq" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="20.0dip" android:layout_marginTop="20.0dip" android:layout_marginRight="20.0dip" android:text="@string/cc_dafuq" />
+        </LinearLayout>
+    </ScrollView>
+    <LinearLayout android:id="@id/dafuq_button_bar" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentBottom="true" style="?android:attr/buttonBarStyle">
+        <Button android:id="@id/dafuq_button" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="Salam Dafuq :v" style="?android:attr/buttonBarButtonStyle" />
+    </LinearLayout>
+</RelativeLayout>
